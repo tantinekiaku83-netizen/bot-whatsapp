@@ -3,7 +3,7 @@ const pino = require('pino');
 
 // ⚠️ COLOCA AQUI O TEU NÚMERO COM INDICATIVO DO PAÍS (SEM O SINAL DE +)
 // Exemplo para Angola: "2449XXXXXXXX"
-const NUMERO_TELEFONE = "+244931174162"; 
+const NUMERO_TELEFONE = "244931174162"; 
 
 async function start() {
     const { state, saveCreds } = await useMultiFileAuthState('auth_info');
