@@ -8,7 +8,7 @@ const GRUPOS_PERMITIDOS = [
 ];
 
 // O teu número com indicativo de Angola
-const NUMERO_TELEFONE = "244931174162";
+const NUMERO_TELEFONE = "244957496113";
 
 async function start() {
     // Se quiseres forçar um novo código, podes apagar a pasta auth_info se falhar
