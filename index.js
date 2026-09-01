@@ -8,7 +8,7 @@ const GRUPOS_PERMITIDOS = [
 ];
 
 // O teu número com indicativo de Angola
-const NUMERO_TELEFONE = "244931174162";
+const NUMERO_TELEFONE = "244951868182";
 
 async function start() {
     // Limpa sessões corrompidas anteriores se necessário
